@@ -1,0 +1,1 @@
+print('Albert Eistein đã từng nói: Một người không bao giờ mắc sai lầm không bao giờ thử bất cứ điều gì mới!')

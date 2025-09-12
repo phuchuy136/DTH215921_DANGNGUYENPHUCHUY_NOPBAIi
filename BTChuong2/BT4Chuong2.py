@@ -1,0 +1,11 @@
+#cau 4 
+print("Câu hỏi: Python hỗ trợ những kiểu dữ liệu cơ bản nào?")
+print("\nCác kiểu dữ liệu cơ bản mà Python hỗ trợ: ")
+print("\nSố: int, float, complex")
+print("\nChuỗi: string")
+print("\nDanh sách: List")
+print("\nBộ: tuple")
+print("\nTập hợp: set")
+print("\nTừ điển: dict")
+print("\nBoolean: bool")
+print("\nNonetype: none")
